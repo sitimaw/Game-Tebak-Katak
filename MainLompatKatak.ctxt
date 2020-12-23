@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MainLompatKatak
+comment0.text=\r\n\ Class\ MainLompatKatak\ yang\ berisi\ Permainan\ <b>Lompat\ si\ Katak\ Lompat,\ Lompat\!</b>\r\n\ \r\n\ @author\ Siti\ Mawaddah\r\n\ @version\ 20\ November\ 2020\r\n
+comment1.params=
+comment1.target=MainLompatKatak()
+comment1.text=\r\n\ Constructor\ untuk\ objek\ dari\ class\ MainLompatKatak\r\n
+comment2.params=danau\ kesempatan
+comment2.target=int\ tebakKatak(Danau,\ int)
+comment2.text=\r\n\ Method\ untuk\ mengatur\ posisi\ katak\ secara\ acak,\r\n\ meminta\ pemain\ menebak\ posisi\ katak,\r\n\ dan\ menentukan\ apakah\ tebakannya\ benar\ atau\ salah\r\n\ \r\n\ @param\ danau\ \ \ \ \ \ danau\ tempat\ katak\ melompat\r\n\ @param\ kesempatan\ sisa\ kesempatan\ yang\ dimiliki\ pemain\ untuk\ menebak\r\n\ @return\ \ \ \ \ \ \ \ \ \ \ poin\ pemain\ (10\ jika\ tebakan\ benar,\ 0\ jika\ tebakan\ salah)\r\n
+comment3.params=batu\ katak
+comment3.target=void\ tampilkanKatak(int[][],\ int)
+comment3.text=\r\n\ Method\ untuk\ menampilkan\ posisi\ katak\r\n\ \r\n\ @param\ batu\ \ batu\ di\ danau\r\n\ @param\ katak\ posisi\ katak\r\n
+comment4.params=nilai
+comment4.target=void\ komentar(int)
+comment4.text=\r\n\ Method\ untuk\ menampilkan\ komentar\ sesuai\ nilai\ pemain\r\n\ \r\n\ @param\ nilai\ nilai\ pemain\r\n
+comment5.params=
+comment5.target=void\ mainkan()
+comment5.text=\r\n\ Method\ yang\ berisi\ inti\ dari\ permainan\r\n
+comment6.params=a
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\r\n\ Method\ utama\ dalam\ program\r\n\ \r\n\ @param\ a\ command\ line\ argument\r\n
+numComments=7

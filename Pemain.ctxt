@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Pemain
+comment0.text=\r\n\ Class\ Pemain\ untuk\ membuat\ objek\ pemain\ dari\ permainan\r\n\ <b>Lompat\ si\ Katak\ Lompat,\ Lompat\!</b>\r\n\r\n\ @author\ Siti\ Mawaddah\r\n\ @version\ 20\ November\ 2020\r\n
+comment1.params=nama
+comment1.target=Pemain(java.lang.String)
+comment1.text=\r\n\ Constructor\ untuk\ objek\ dari\ class\ Pemain\r\n\ \r\n\ @param\ nama\ nama\ pemain\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNama()
+comment2.text=\r\n\ Method\ untuk\ mendapatkan\ nama\ pemain\r\n\ \r\n\ @return\ nama\ pemain\r\n
+comment3.params=nama
+comment3.target=void\ setNama(java.lang.String)
+comment3.text=\r\n\ Method\ untuk\ mengatur\ nama\ pemain\r\n\ \r\n\ @param\ nama\ nama\ pemain\r\n
+comment4.params=
+comment4.target=int\ getNilai()
+comment4.text=\r\n\ Method\ untuk\ mendapatkan\ nilai\ pemain\r\n\ \r\n\ @return\ nilai\ pemain\r\n
+comment5.params=nilai
+comment5.target=void\ setNilai(int)
+comment5.text=\r\n\ Method\ untuk\ mengatur\ nilai\ pemain\r\n\ \r\n\ @param\ nilai\ nilai\ pemain\r\n
+numComments=6

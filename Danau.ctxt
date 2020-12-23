@@ -1,0 +1,34 @@
+#BlueJ class context
+comment0.target=Danau
+comment0.text=\r\n\ Class\ Danau\ untuk\ membuat\ objek\ danau\ sebagai\ tempat\ katak\ \r\n\ melompat\ pada\ permainan\ <b>Lompat\ si\ Katak\ Lompat,\ Lompat\!</b>\r\n\r\n\ @author\ Siti\ Mawaddah\r\n\ @version\ 20\ November\ 2020\r\n
+comment1.params=
+comment1.target=Danau()
+comment1.text=\r\n\ Constructor\ tanpa\ parameter\ dengan\ nilai\ default\ jumlahBatu\ \=\ 5\r\n
+comment10.params=baris\ lajur
+comment10.target=void\ hapusKatak(int,\ int)
+comment10.text=\r\n\ Method\ untuk\ menghapus\ katak\ dari\ dalam\ array\ batu\r\n\ \r\n\ @param\ baris\ indeks\ baris\ dari\ array\ batu\r\n\ @param\ lajur\ indeks\ kolom\ dari\ array\ batu\r\n
+comment2.params=jumBatu
+comment2.target=Danau(int)
+comment2.text=\r\n\ Contructor\ dengan\ parameter\r\n\ \r\n\ @param\ jumBatu\ jumlah\ batu\ dalam\ satu\ baris\ atau\ satu\ lajur\r\n
+comment3.params=
+comment3.target=int\ getJumlahBatu()
+comment3.text=\r\n\ Method\ untuk\ mendapatkan\ jumlah\ batu\r\n\ \r\n\ @return\ jumlahBatu\r\n
+comment4.params=
+comment4.target=int[][]\ getBatu()
+comment4.text=\r\n\ Method\ untuk\ mendapatkan\ batu\ dalam\ bentuk\ array\ 2\ dimensi\r\n\ \r\n\ @return\ batu\r\n
+comment5.params=
+comment5.target=void\ deskripsiDanau()
+comment5.text=\r\n\ Method\ untuk\ menampilkan\ deskripsi\ dari\ danau\r\n
+comment6.params=
+comment6.target=void\ buatBatu()
+comment6.text=\r\n\ Method\ untuk\ membuat\ array\ batu\ sesuai\ dengan\ jumlah\ batu\r\n
+comment7.params=
+comment7.target=void\ tampilkanBatu()
+comment7.text=\r\n\ Method\ untuk\ menampilkan\ batu\ dengan\ nomor\ urut\ dimulai\ dari\ 1\r\n
+comment8.params=baris\ lajur
+comment8.target=void\ tambahKatak(int,\ int)
+comment8.text=\r\n\ Method\ untuk\ menambah\ katak\ ke\ dalam\ array\ batu\r\n\ \r\n\ @param\ baris\ indeks\ baris\ dari\ array\ batu\r\n\ @param\ lajur\ indeks\ kolom\ dari\ array\ batu\r\n
+comment9.params=baris\ lajur
+comment9.target=boolean\ adaKatak(int,\ int)
+comment9.text=\r\n\ Method\ untuk\ memeriksa\ apakah\ terdapat\ katak\ pada\ baris\ dan\ kolom\ yang\ diminta\r\n\ \r\n\ @param\ baris\ indeks\ baris\ dari\ array\ batu\r\n\ @param\ lajur\ indeks\ kolom\ dari\ array\ batu\r\n\ @return\ \ \ \ \ \ true\ jika\ terdapat\ katak,\ false\ jika\ tidak\ ada\ katak\r\n
+numComments=11
